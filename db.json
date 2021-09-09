@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "image": "some-img1",
+            "nickname": "user1",
+            "status": "status1",
+            "place": "some place 1"
+        },
+        {
+            "image": "some-img2",
+            "nickname": "user2",
+            "status": "status2",
+            "place": "some place 2"
+        }
+    ]
+}
